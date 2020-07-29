@@ -1,14 +1,15 @@
 # BigdataPlatformClass_MachineLearning
  
-Python의 강의는 총 6일.  
+MachineLearning/DeepLearning의 강의는 총 11일.  
 강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
 매일 강의 내용을 프로젝트 폴더 단위(코드 / .확장자)로 업로드를 진행합니다.  
-:: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.  
+:: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.
+MachineLearning 부분과 DeepLearning의 내용을 따로 업로드하였습니다.
 
 <hr>   
 
 [학습]
-- **MachineLearning의 학습 목표 : 빅데이터 분석 플랫폼 시스템 개발 : 64 -> 96 H**  
+- **MachineLearning의 학습 목표 : 
 - Class 01 : 데이터전처리 복습 및 연습 : Pandas 라이브러리 활용 / 정규표현식 / Matplotlib 시각화 / Seaborn 시각화
 - Class 02 : 데이터전처리 복습 및 연습 : Crawling / Konlpy
 - Class 03 : EDA
