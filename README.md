@@ -10,11 +10,13 @@ Python의 강의는 총 6일.
 [학습]  **수정필요**
 - **MachineLearning의 학습 목표 : 빅데이터 분석 플랫폼 시스템 개발 : 64 -> 96 H**  
 - Class 01 : 데이터전처리 복습 및 연습 : Pandas 라이브러리 활용 / 정규표현식 / Matplotlib 시각화 / Seaborn 시각화
-- Class 02 : 결측치 처리와 컬럼정제, 머신러닝 학습을 위한 원핫인코딩
-- Class 03 : Decision Tree / Random Forest를 활용한 Titanic 예측 및 분류
-- Class 04 : Linear Regression / Gradient Boosting Machine을 활용한 Bike Sharing 예측
-- Class 05 : 
-- Class 06 : 
+- Class 02 : Crawling / Konlpy
+- Class 03 : EDA
+- Class 04 : 결측치 처리와 컬럼정제, 머신러닝 학습을 위한 원핫인코딩
+- Class 05 : Decision Tree / Random Forest를 활용한 Titanic 예측 및 분류
+- Class 06 : Linear Regression / Gradient Boosting Machine을 활용한 Bike Sharing 예측
+- Class 07 : 
+- Class 08 : 
 
 <hr>
 
