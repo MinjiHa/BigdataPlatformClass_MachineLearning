@@ -3,8 +3,7 @@
 MachineLearning/DeepLearning의 강의는 총 11일.  
 강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
 매일 강의 내용을 프로젝트 폴더 단위(코드 / .확장자)로 업로드를 진행합니다.  
-:: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.
-MachineLearning 부분과 DeepLearning의 내용을 따로 업로드하였습니다.
+:: MachineLearning 부분과 DeepLearning의 내용을 따로 업로드하였습니다.
 
 <hr>   
 
