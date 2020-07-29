@@ -9,7 +9,7 @@ MachineLearning 부분과 DeepLearning의 내용을 따로 업로드하였습니
 <hr>   
 
 [학습]
-- **MachineLearning Note**
+**MachineLearning Note**
 - Class 01 : 데이터전처리 복습 및 연습 : Pandas 라이브러리 활용 / 정규표현식 / Matplotlib 시각화 / Seaborn 시각화
 - Class 02 : 데이터전처리 복습 및 연습 : Crawling / Konlpy
 - Class 03 : EDA
