@@ -9,12 +9,12 @@ Python의 강의는 총 6일.
 
 [학습]  **수정필요**
 - **MachineLearning의 학습 목표 : 빅데이터 분석 플랫폼 시스템 개발 : 64 -> 96 H**  
-- Class 01 : 파이썬 및 VSCODE 설치, 셋팅 / 파이썬 기본 변수 자료형 및 함수, 문법 학습 / 파이썬으로 활용 가능한 외부 라이브러리 소개      
-- Class 02 : 내장, 사용자 함수 학습 / 클래스 정의 및 활용 / 라이브러리 작성 및 임포트 실습 / 모듈 직,간접 실행 패턴 / 기술 문서 활용법
-- Class 03 : Python Virtual Env 개념 및 셋팅(이하 PVE) / PVE 환경 빌드 및 테스트 / 패키지,라이브러리 활용 실습 / 클래스를 이용한 계산기 실습
-- Class 04 : Numpy 라이브러리 활용 / DB Connect(cx_Oracle) 학습 / 데이터 크롤링 기법(Request, BeautifulSoap) 학습  
-- Class 05 : 크롤링 활용 데이터 가져오기 및 파싱 / 데이터 가공 및 처리 후 저장 / 클래스 정의 및 활용 / 패키지 정의 및 작성 활용  
-- Class 06 : 마무리 평가 및 전체 과정 리뷰  
+- Class 01 : 데이터전처리 복습 및 연습 : Pandas 라이브러리 활용 / 정규표현식 / Matplotlib 시각화 / Seaborn 시각화
+- Class 02 : 결측치 처리와 컬럼정제, 머신러닝 학습을 위한 원핫인코딩
+- Class 03 : Decision Tree / Random Forest를 활용한 Titanic 예측 및 분류
+- Class 04 : Linear Regression / Gradient Boosting Machine을 활용한 Bike Sharing 예측
+- Class 05 : 
+- Class 06 : 
 
 <hr>
 
